@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am a visual artist trained in traditional art practices, particularly Painting, and I am currently working on digital art using Blender 3D. I graduated with a Bachelor's in Fine Arts, majoring in Painting at the University of San Carlos Cebu, Philippines, and was trained in art research and production. During the pandemic, I started working on digital art since virtual space was the only space to experience art during those times. The artworks are not documentations of paintings and sculptures but digital artworks specific to the space itself, in this case, virtual space. I am here in GiTHuB to train a model like GAN using images I made through Blender 3D. Refik Anadol's work inspired me, but instead of using data from other groups or institutions, I intend to use my own data produced through 3D modelling. To be honest, I do not know where this is headed, which makes this endeavour...exciting.
+
 
 <!--
 **BrainWare420/BrainWare420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
